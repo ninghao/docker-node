@@ -1,0 +1,14 @@
+{
+  "name": "ninghao_node",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "wanghao <wanghao@ninghao.net>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "ejs": "^1.0.0"
+  }
+}
